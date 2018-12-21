@@ -9,7 +9,7 @@ function subtract()
 {return a - b }
 
 function multiply()
-{return 2 * 3.4 }
+{return 2 * 32433.5 }
 
 function divide()
 {return 5.0/2.5}
