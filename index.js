@@ -2,7 +2,7 @@ var number = a
 var number = b
 
 
-function add()
+function add(a,b)
 {return a + b}
 
 function subtract()
