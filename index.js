@@ -1,3 +1,6 @@
+var number = a
+var number = b
+
 
 function add()
 {return 1 + 80}
