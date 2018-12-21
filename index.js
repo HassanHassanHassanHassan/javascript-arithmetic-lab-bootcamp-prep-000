@@ -16,7 +16,7 @@ function divide(a,b)
 
 var number = add
 
-function increment(number)
+function inc(number)
 {return number++}
 
 number++
