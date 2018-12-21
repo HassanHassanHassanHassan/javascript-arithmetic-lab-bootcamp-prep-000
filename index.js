@@ -3,7 +3,7 @@ var number = b
 
 
 function add()
-{return 1 + 80}
+{return a + 80}
 
 function subtract()
 {return 60 - 40 }
