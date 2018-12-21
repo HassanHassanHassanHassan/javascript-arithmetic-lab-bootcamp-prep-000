@@ -5,11 +5,11 @@ var number = b
 function add(a,b)
 {return a + b}
 
-function subtract()
+function subtract(a,b)
 {return a - b }
 
-function multiply()
-{return 2 * 32433.5 }
+function multiply(a,b)
+{return a * b }
 
-function divide()
-{return 5.0/2.5}
+function divide(a,b)
+{return a/b}
