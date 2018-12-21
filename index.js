@@ -19,4 +19,6 @@ var number = add
 function inc(number)
 {return number++ }
 
-+++number
+++number
+
+--number
