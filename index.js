@@ -21,4 +21,7 @@ function inc(number)
 
 ++number
 
+function dec(number)
+{return number-- } 
+
 --number
