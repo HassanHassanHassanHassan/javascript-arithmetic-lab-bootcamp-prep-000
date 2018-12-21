@@ -6,7 +6,7 @@ function add()
 {return a + b}
 
 function subtract()
-{return 60 - 40 }
+{return a - b }
 
 function multiply()
 {return 2 * 3.4 }
