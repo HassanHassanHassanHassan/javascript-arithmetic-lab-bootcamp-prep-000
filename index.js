@@ -17,6 +17,6 @@ function divide(a,b)
 var number = add
 
 function inc(number)
-{return number+}
+{return number++ }
 
-number+
+number++
